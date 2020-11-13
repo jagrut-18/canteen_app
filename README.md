@@ -1,13 +1,14 @@
 # Canteen app using Flutter
 
 ## Project Description
-Simple and elegant website for practicing writing section of GRE, GMAT and IELTS exams.
+An app for ordering food online to eliminate commonly observed problems such as long queues and excessive waiting time in our college.
 
 ### Features
-1. Time Limit
-2. Random topic selector
-3. Word count
-4. Download written essay in .docx and .pdf format.
+1. User/Admin authentication
+2. Explore canteen food items with prices
+3. Add/Remove items
+4. Wallet
+5. Admin Panel
 
 ### Snapshots
 
